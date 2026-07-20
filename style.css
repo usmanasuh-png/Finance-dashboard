@@ -1,0 +1,26 @@
+body{
+    background:#493e3a;
+    font-family:Arial, sans-serif;
+}
+
+.box{
+    height:120px;
+    background:#be1717;
+    border:2px dashed #999;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-weight:bold;
+}
+
+.large-box{
+    height:250px;
+    background:#6f4343;
+    border:2px dashed #999;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-weight:bold;
+}
